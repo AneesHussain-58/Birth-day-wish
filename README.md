@@ -76,8 +76,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
   
 ## Screenshots for Project
 
-<img src="https://github.com/l33t-c0d3r-66/Birthday-Reminder-ReactJS/blob/master/screenshots/ss1.PNG">
-  
-<img src="https://github.com/l33t-c0d3r-66/Birthday-Reminder-ReactJS/blob/master/screenshots/ss2.PNG">
-  
-<img src="https://github.com/l33t-c0d3r-66/Birthday-Reminder-ReactJS/blob/master/screenshots/ss3.PNG">
+
